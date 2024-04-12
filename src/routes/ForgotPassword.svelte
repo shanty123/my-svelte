@@ -14,7 +14,7 @@
       })
     }
   
-    $: console.log($userStore)
+   
   </script>
   
   <form on:submit|preventDefault={forgotpassword} class="lg:w-2/6 md:w-1/2 bg-gray-100 rounded-lg p-8 flex flex-col  w-full mt-10 md:mt-0">
